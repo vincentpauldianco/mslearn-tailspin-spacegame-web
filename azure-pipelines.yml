@@ -20,7 +20,6 @@ steps:
 - task: UseDotNet@2
   displayName: 'Use .NET SDK $(dotnetSdkVersion)'
   inputs:
-    packageType: sdks
     version: '$(dotnetSdkVersion)'
 
 - task: Npm@1
