@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Tailspin.SpaceGame.Web.Models" version="1.0.0-CI-20210921-113834" />
+    <PackageReference Include="Tailspin.SpaceGame.Web.Models" version="1.1.0-CI-20210921-115808" />
   </ItemGroup>
   
   <ItemGroup>
